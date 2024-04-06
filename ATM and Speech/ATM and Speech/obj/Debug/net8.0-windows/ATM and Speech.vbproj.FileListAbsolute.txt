@@ -1,0 +1,41 @@
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.exe
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.deps.json
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.runtimeconfig.json
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.dll
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.pdb
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM_and_Speech.Form1.resources
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.vbproj.GenerateResource.cache
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.AssemblyInfoInputs.cache
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.AssemblyInfo.vb
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.vbproj.CoreCompileInputs.cache
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.dll
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\refint\ATM and Speech.dll
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.pdb
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.genruntimeconfig.cache
+C:\Users\AB03595\source\repos\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ref\ATM and Speech.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.exe
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.deps.json
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.runtimeconfig.json
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\ATM and Speech.pdb
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM_and_Speech.Form1.resources
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.vbproj.GenerateResource.cache
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.AssemblyInfoInputs.cache
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.AssemblyInfo.vb
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.vbproj.CoreCompileInputs.cache
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\refint\ATM and Speech.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.pdb
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.genruntimeconfig.cache
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ref\ATM and Speech.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and Speech.vbproj.AssemblyReference.cache
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM and .141B45A4.Up2Date
+C:\Users\AB035A2\Desktop\Mindworx\Week 4\Day 3\ATM and Speech\ATM and Speech\obj\Debug\net8.0-windows\ATM_and_Speech.ATM.resources
